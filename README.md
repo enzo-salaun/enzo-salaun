@@ -1,4 +1,4 @@
-# Hey, I'm Enzo! 👋
+# Hey, I break things to make them better.
 
 I'm a DevOps & AI Automation Engineer from Lyon, France.
 Passionate about open source, I love building, learning
@@ -60,13 +60,6 @@ and sharing my infra knowledge and projects here.
   on GLPI and BlueMind in production
 - Custom PHP development and ORM integration
   for specific client needs on BlueMind
-
----
-
-## My GitHub Stats :
-
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzo-salaun&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-salaun&layout=compact&theme=dark&hide_border=true)
 
 ---
 

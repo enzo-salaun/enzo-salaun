@@ -50,16 +50,13 @@ and sharing my infra knowledge and projects here.
 
 ## What I've built :
 
-- Homelab infrastructure on Proxmox with DMZ/LAN VLANs,
-  secure tunnel, internal PKI and automatic ACME renewal
-- Zero Trust architecture with Teleport and Pangolin
-  for secure remote access across all environments
-- Fully automated Docker stack with GitLab CI
-  and Watchtower for continuous deployment
-- Python scripts for REST API automation
-  on GLPI and BlueMind in production
-- Custom PHP development and ORM integration
-  for specific client needs on BlueMind
+- Designed and maintained production-grade infrastructure environments with secure network architecture and virtualization
+- Implemented Zero Trust remote access solutions and secure administration workflows across multiple environments
+- Built and maintained automated containerized deployment pipelines and infrastructure automation processes
+- Developed custom migration tools and managed large-scale data and mailbox migrations using dedicated synchronization utilities
+- Engineered synchronization plugins and API integrations between enterprise platforms including GLPI and Zendesk
+- Developed automation tools and backend services using REST APIs, API wrappers, and custom business logic integrations
+- Delivered custom PHP development and tailored application integrations for client-specific operational needs
 
 ---
 
